@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time.<br>Currently learning coding and Godot engine.<br>Contact me on Discord or here!
+Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time.<br>Currently learning coding and Godot engine.<br>Contact me on my socials!
 
 
 ## 🌐 Socials:
