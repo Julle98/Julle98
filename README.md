@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="(https://github.com/Julle98/Julle98/blob/da6e758375a6f4b09fc8d7729bd27a99d481010a/banner.png)" alt="banner" />
+</p>
+
+
 # 💫 About Me:
 Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time.<br>Currently learning coding and Godot engine.<br>Contact me on my socials!
 
