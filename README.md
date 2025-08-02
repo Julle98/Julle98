@@ -6,8 +6,8 @@ Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time
 - [Discord Bot](https://github.com/Julle98/DiscordBot)  
   🤖 My own server bot that makes a lot of things.
 
-- [Junk File Cleaner](https://github.com/Julle98/UselessFilesClener)  
-  🖥️ Tool that removes meaningless files from your computer and creates folders for important stuff.
+- [Folder File Analyzer](https://github.com/Julle98/FolderFileAnalyzer) 
+  🖥️ Tool that checks your folders, analyzes source code, count characters and lines in each file. 
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)]([[https://bsky.app/profile/julle98.bsky.social]]‬) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/600623884198215681) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/julle98) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Julle98) 
