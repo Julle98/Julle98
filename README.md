@@ -3,10 +3,12 @@ Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time
 
 # 🔨 Currently Working On:
 
-- [Discord Bot](https://github.com/Julle98/DiscordBot)  
+- [Discord Bot](https://github.com/Julle98/DiscordBot)
+   
   🤖 My own server bot that makes a lot of things.
 
 - [Folder Analyzer](https://github.com/Julle98/FolderFileAnalyzer)
+  
   🖥️ Tool that checks your folders, analyzes source code, count characters and lines in each file. 
 
 ## 🌐 Socials:
