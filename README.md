@@ -1,9 +1,10 @@
 # 💫 About Me:
 Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time.<br>Currently learning coding and Godot engine.<br>Contact me on my socials!
+
 <p align="center">
-  <img src="https://img.shields.io/github/stars/<Julle98>?style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/<Julle98>?style=for-the-badge&color=blue" />
-  <img src="https://komarev.com/ghpvc/?username=<Julle98>&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/<julle98>?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/followers/<julle98>?style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=<julle98>&abbreviated=true&label=Profile%20views&color=violet&style=for-the-badge"/>
 </p>
 
 # 💻 Tech Stack:
