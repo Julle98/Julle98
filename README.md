@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time.<br>Currently learning coding and Godot engine.<br>Contact me id you need it on my socials!
+Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time.<br>Currently learning coding and Godot engine.<br>Contact me if you need it on my socials!
 
 <p align="left">
   <img src="https://img.shields.io/github/commit-activity/m/Julle98/DiscordBot?style=for-the-badge" />
