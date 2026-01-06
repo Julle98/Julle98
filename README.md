@@ -4,7 +4,7 @@ Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time
 <p align="left">
   <img src="https://img.shields.io/github/commit-activity/m/Julle98/Julle98?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/Julle98/Julle98?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/Julle98/Discordbot?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/Julle98/Julle98?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Julle98&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Julle98" />
 </p>
 
