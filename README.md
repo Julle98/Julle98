@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time.<br>Currently learning coding and Godot engine.<br>Contact me if you need it on my socials!
 
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-ff69b4?logo=github)](https://github.com/sponsors/Julle98)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?logo=patreon)](https://patreon.com/Julle98tips)
+
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,nodejs,lua,aws,apple,blender,robloxstudio,discord,godot,vscode)](https://skillicons.dev)
 
