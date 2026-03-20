@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hobby coder from finland.<br>Using VSCODE and Godot game engine most of the time.<br>Currently learning coding and Godot engine.<br>Contact me if you need it on my socials!
+Hobby coder from finland. Using VSCODE and AWS most of the time.<br>Started in Roblox Studio and moved lately into Python and Javascript.<br>Nowadays own Linux servers and helping open source community.<br>Contact me if you need it on my socials!
 
 ![GitHub License](https://img.shields.io/github/license/Julle98/QrCodeGenerator)
 ![GitHub language count](https://img.shields.io/github/languages/count/Julle98/Minesweeper)
