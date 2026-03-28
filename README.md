@@ -13,6 +13,4 @@ Hobby coder from finland. Using VSCODE and AWS most of the time.<br>Started in R
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/600623884198215681) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/julle98) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Julle98) [![Twitter X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Julle_98) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/julle98.bsky.social) [![Steam](https://img.shields.io/badge/Steam-171a21.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/Julle98) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://reddit.com/user/Julle98)
 
 # 📊 My Github Stats:
-| Stats | Streak |
-|------|--------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Julle98&show_icons=true&theme=dark) | ![Streak](https://streak-stats.demolab.com?user=Julle98&theme=dark) |
+[![Streak](https://streak-stats.demolab.com?user=Julle98&theme=dark) 
