@@ -6,4 +6,4 @@ Hobby coder from finland. Using VSCODE and AWS most of the time.<br>Started in R
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?logo=patreon)](https://patreon.com/Julle98tips)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,nodejs,lua,aws,apple,blender,robloxstudio,discord,godot,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,typescript,git,nodejs,lua,aws,apple,blender,robloxstudio,discord,godot,vscode)](https://skillicons.dev)
