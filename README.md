@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hobby coder from finland. Using VSCODE and AWS most of the time.<br>Started in Roblox Studio and moved lately into Python and Javascript.<br>Nowadays own Linux servers and helping open source community.<br>Contact me if you need it on my socials!
+Hobby coder from finland. Using VSCODE and AWS or Oracle most of the time.<br>Started in Roblox Studio and moved lately into Python and Javascript.<br>Nowadays own Linux servers and helping open source community.<br>Contact me if you need it on my socials or in my email!
 
 ![GitHub License](https://img.shields.io/github/license/Julle98/QrCodeGenerator)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-ff69b4?logo=github)](https://github.com/sponsors/Julle98)
